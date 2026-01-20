@@ -1,11 +1,11 @@
-BUSINESS SALES ANALYSIS FROM E-COMMERCE DATA – POWER BI DASHBOARD
+##BUSINESS SALES ANALYSIS FROM E-COMMERCE DATA – POWER BI DASHBOARD
 
-Project Overview  
+##Project Overview  
 This project analyzes E-commerce business sales data using a Power BI dashboard.  
 The dashboard provides insights into total sales, quantity sold, orders, customers, product performance, country-wise sales, order status, and sales trends over time.  
 It helps understand business performance, customer behavior, and sales distribution to support data-driven decision-making.
 
-Dataset Information  
+##Dataset Information  
 ● Source: E-Commerce Sales Dataset  
 ● Format: CSV / Excel  
 ● Records: Transaction-level data  
